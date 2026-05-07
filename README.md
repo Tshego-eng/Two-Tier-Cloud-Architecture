@@ -2,6 +2,8 @@
 
 A fully deployed PHP website hosted on Amazon Web Services, built using a secure two-tier architecture with isolated public and private subnets inside a custom VPC. This project demonstrates real-world cloud networking, EC2 provisioning, database configuration, and inter-subnet communication — all configured from scratch.
 
+Website link: http://54.197.24.61/
+
  **Architecture Overview**
 
 The infrastructure is built inside a **custom VPC (CIDR: 10.0.0.0/16)** and split into two isolated subnets:
